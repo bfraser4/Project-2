@@ -1,9 +1,9 @@
-√ Extract: indicates the original data sources and how the data were formatted at a professional level
-
 # Data Sources: 
     1) https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows
     2) https://www.kaggle.com/datasets/shivamb/netflix-shows
     3) https://www.kaggle.com/datasets/ramjasmaurya/top-250s-in-imdb
+    
+√ Extract: indicates the original data sources and how the data were formatted at a professional level
 
 We imported each CSV file into pandas as a DataFrame. Then, within pandas, the "title" column was aggregated into upper case format, and the "rating" column was formatted to lower case in the final DataFrame.   
 

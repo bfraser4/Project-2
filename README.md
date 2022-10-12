@@ -13,7 +13,7 @@
 
 ## Proposal 
 
-We will analyz data from Netflix streaming services and IMDB data set. We will join the data set by the title, Movie Rating, votes, date added, and rating. We will analyze and complete the extract, transform and load (ETL) process on the data set.
+We will analyz data from Netflix streaming services and IMDB data set. We will join the data set by the title, Movie Rating, votes, date added, and rating. Lastly, we will analyze and complete the extract, transform and load (ETL) process on the data set.
 
 
 Extract: Extracting Disney+ and Netflix CSV file from data from Kaggle.com 

@@ -1,4 +1,4 @@
-##Project 2 ETL
+## Project 2 ETL
 
 #Group Members: 
 - Jeff Brown
@@ -12,7 +12,7 @@
     2) https://www.kaggle.com/datasets/shivamb/netflix-shows
     3) https://www.kaggle.com/datasets/ramjasmaurya/top-250s-in-imdb
 
-#Proposal 
+# Proposal 
 
 We are analyzing a Disney+ and Netflix data set and will join the data set by the title, Movie Rating, votes, date added, and rating. We will analyze and complete the extract, transform and load (ETL) process on the data set.
 
@@ -31,7 +31,7 @@ Responsibilities:
 - Data Mapping: Brittanie + Xilonem
 - Git Hub repository set up & maintenance: Brittanie 
 
-#ETL Process:
+# ETL Process:
 
 Extract: indicates the original data sources and how the data were formatted at a professional level
 
